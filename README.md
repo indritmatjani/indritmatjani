@@ -6,8 +6,7 @@
   
   *Curious, Determined & Passionate About Code*
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/indrit-matjani-823397118/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://matjaniindrit.netlify.app/)
   
 </div>
@@ -102,9 +101,8 @@ I'm always open to interesting projects and collaboration opportunities. Feel fr
 
 - **GitHub**: [@indritmatjani](https://github.com/indritmatjani)
 - **Portfolio**: [matjaniindrit.netlify.app](https://matjaniindrit.netlify.app/)
-- **LinkedIn**: [Add your LinkedIn URL]
-- **Twitter/X**: [Add your Twitter URL]
-- **Email**: [Add your email]
+- **LinkedIn**: [Indrit Matjani](https://www.linkedin.com/in/indrit-matjani-823397118/)
+- **Email**: [matjaniindrit@gmail.com](matjaniindrit@gmail.com)
 
 ---
 
