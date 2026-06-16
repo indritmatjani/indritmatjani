@@ -7,7 +7,8 @@
   *Curious, Determined & Passionate About Code*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/indritmatjani/Portfolio](https://matjaniindrit.netlify.app/))
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://matjaniindrit.netlify.app/)
   
 </div>
 
@@ -56,9 +57,6 @@ A production-ready template for Next.js projects with best practices and modern 
 - **Tech**: Next.js 15, React 19, TypeScript, Tailwind CSS
 - **Bonus**: Custom ESLint configurations
 
-### 🎨 [Portfolio](https://github.com/indritmatjani/Portfolio)
-My personal portfolio showcasing my work and skills.
-
 ### 🐍 [Python Projects](https://github.com/indritmatjani/PYTHON)
 Collection of Python learning projects and utilities.
 
@@ -103,6 +101,7 @@ Collection of Python learning projects and utilities.
 I'm always open to interesting projects and collaboration opportunities. Feel free to reach out!
 
 - **GitHub**: [@indritmatjani](https://github.com/indritmatjani)
+- **Portfolio**: [matjaniindrit.netlify.app](https://matjaniindrit.netlify.app/)
 - **LinkedIn**: [Add your LinkedIn URL]
 - **Twitter/X**: [Add your Twitter URL]
 - **Email**: [Add your email]
